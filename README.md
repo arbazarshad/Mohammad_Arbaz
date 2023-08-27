@@ -10,7 +10,7 @@ In summation, Riyaz Mohammad Arbaz emerges as a dedicated and accomplished indiv
 
 ##Skills
 
-<a href="https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java.png?raw=true"/> <img src = "https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java.png?raw=true" /></a>
+<a href="https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java.png?raw=true"/> <img width="50px" src = "https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java%20(1).png" />JAVA</a>
 * [![JAVA][Java]][java-url]
 * [![Python][Python]][Python-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -45,7 +45,7 @@ R Mohammad Arbaz - age 21 - tech enthusiast - currecntly looking for a job
 [Gmail-url]: https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNBjpwzkQCfLPGsnCgdfLrRDWczHxjHjBxhjgZkdjHWPDStXPJDVRrtRVDrgXLQGdnJ
 
 
-[JAVA]: https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=Orange
+[JAVA]: https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java%20(1).png&logoColor=Orange
 [Java-url]:https://java.org/
 [python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Pthon&logoColor=61DAFB
 [Python-url]: https://Python.org/
