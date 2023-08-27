@@ -4,7 +4,8 @@
 [![Gmail][mail-shield]][Gmail-url]
 
 ##About me
-Riyaz Mohammad Arbaz is an ambitious and accomplished B. Tech student majoring in Computer Science with a specialization in Data Science at Vellore Institute of Technology. Set to complete his degree in July 2024, he has consistently excelled academically, maintaining an impressive CGPA of 8.35 out of 10. His coursework spans a wide spectrum of subjects, including fundamental topics like Object-Oriented Programming, Data Structures and Algorithms, as well as advanced areas such as Cloud Computing, Machine Learning, and Cryptography. This diverse knowledge base reflects his strong grounding in key computer science concepts.
+#Riyaz Mohammad Arbaz 
+is an ambitious and accomplished B. Tech student majoring in Computer Science with a specialization in Data Science at Vellore Institute of Technology. Set to complete his degree in July 2024, he has consistently excelled academically, maintaining an impressive CGPA of 8.35 out of 10. His coursework spans a wide spectrum of subjects, including fundamental topics like Object-Oriented Programming, Data Structures and Algorithms, as well as advanced areas such as Cloud Computing, Machine Learning, and Cryptography. This diverse knowledge base reflects his strong grounding in key computer science concepts.
 
 In his pursuit of continuous learning and skill enhancement, Arbaz has obtained noteworthy certifications. Notably, he achieved the Azure AI Fundamentals certification from Microsoft, showcasing his commitment to staying abreast of the latest developments in the field. His impressive score of 84.2% demonstrates his grasp of AI fundamentals. He has also honed his expertise through a Full Stack Web Development Training and Internship, gaining proficiency in HTML, CSS, basic Node.js, and basic React.js. This comprehensive training underscores his proficiency in both front-end and back-end development.
 
