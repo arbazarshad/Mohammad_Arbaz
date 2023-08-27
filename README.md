@@ -10,7 +10,7 @@ In summation, Riyaz Mohammad Arbaz emerges as a dedicated and accomplished indiv
 
 ##Skills
 
-
+<a href="https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java.png?raw=true"/> <img src = "https://github.com/arbazarshad/Mohammad_Arbaz/blob/main/images/java.png?raw=true" /></a>
 * [![JAVA][Java]][java-url]
 * [![Python][Python]][Python-url]
 * [![Vue][Vue.js]][Vue-url]
