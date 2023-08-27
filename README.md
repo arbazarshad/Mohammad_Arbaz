@@ -6,8 +6,20 @@
 ## About me
 #Riyaz Mohammad Arbaz
 is an ambitious and accomplished B. Tech student majoring in Computer Science with a specialization in Data Science at Vellore Institute of Technology. Set to complete his degree in July 2024, he has consistently excelled academically, maintaining an impressive CGPA of 8.35 out of 10. His coursework spans a wide spectrum of subjects, including fundamental topics like Object-Oriented Programming, Data Structures and Algorithms, as well as advanced areas such as Cloud Computing, Machine Learning, and Cryptography. This diverse knowledge base reflects his strong grounding in key computer science concepts.
+In summation, Riyaz Mohammad Arbaz emerges as a dedicated and accomplished individual with a robust academic foundation, hands-on experience in data science and web development, an impressive project portfolio, versatile technical skills, invaluable interpersonal competencies, and active engagement in extracurricular pursuits. His holistic approach to education and skill development positions him as a promising talent poised for a successful career in the dynamic realms of computer science and data science.
 
-In his pursuit of continuous learning and skill enhancement, Arbaz has obtained noteworthy certifications. Notably, he achieved the Azure AI Fundamentals certification from Microsoft, showcasing his commitment to staying abreast of the latest developments in the field. His impressive score of 84.2% demonstrates his grasp of AI fundamentals. He has also honed his expertise through a Full Stack Web Development Training and Internship, gaining proficiency in HTML, CSS, basic Node.js, and basic React.js. This comprehensive training underscores his proficiency in both front-end and back-end development.
+##Skills
+
+
+* [![JAVA][Java]][java-url]
+* [![Python][Python]][Python-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
 
 During his summer internship at SMARTINTERNZ, Arbaz participated in an Applied Data Science program, where he engaged in practical training and contributed to a project focused on predicting online shoppers' intentions. He successfully developed a frontend application that employs algorithms like Random Forest and Decision Trees to achieve an impressive accuracy of 95% in intention prediction. The practical deployment of this model using Flask showcases his hands-on web development skills.
 
@@ -25,12 +37,30 @@ In summation, Riyaz Mohammad Arbaz emerges as a dedicated and accomplished indiv
 
 ## Contact
 
-R Mohammad Arbaz - age 22 - tech enthusiast - currecntly looking for a job
+R Mohammad Arbaz - age 21 - tech enthusiast - currecntly looking for a job
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [mail-shield]: https://img.shields.io/badge/-Gmail-blue.svg?style=for-the-badge&logo=Gmail&colorB=555
 [Gmail-url]: https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNBjpwzkQCfLPGsnCgdfLrRDWczHxjHjBxhjgZkdjHWPDStXPJDVRrtRVDrgXLQGdnJ
+
+
+[JAVA]: https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=Orange
+[Java-url]:https://java.org/
+[python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Pthon&logoColor=61DAFB
+[Python-url]: https://Python.org/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte-url]: https://svelte.dev/
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://laravel.com
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
 
 
 
